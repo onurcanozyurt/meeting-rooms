@@ -1,0 +1,51 @@
+html, body, ul, li, h2, h3, h4, h5, h6, img, p {
+	color: #777;
+	font-family: 'Lato', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-size: 14px;
+	letter-spacing: 0.4px;
+	
+	
+}
+a {
+    text-decoration: none;
+}
+.title { 
+   text-align: center;
+   padding:80px;
+   background-color: #abbaab;
+}
+.rooms-icon {
+    width: 150px;
+    height: 150px;
+     
+}
+.rooms-list li {
+    overflow: hidden;
+    display: inline-block;
+    padding: 114.02px;
+    background-color: #F5F5F5;
+    
+}
+.rooms {
+    overflow: hidden;
+}
+
+.rooms-list h3 {
+    text-align: center;
+    
+}
+#meeting-room
+{
+    font:bold;
+    background-color: #e32c1b;
+    font-size:26px;
+}
+
+
+
+
+    
